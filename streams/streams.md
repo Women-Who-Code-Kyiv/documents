@@ -48,6 +48,7 @@ Security Software Engineer @CossackLabs Specialising in Mobile Security. iOS, An
 
 ## Mobile
 
+<img src="./slack.svg" width="18"> Slack channel: [#mobile](https://wwcodekyiv.slack.com/archives/C45JBVA5D)
 
 ### Maria Holubieva
 
