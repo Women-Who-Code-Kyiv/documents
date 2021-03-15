@@ -14,7 +14,7 @@
 
 <img src="./alazareva.png" width="250">
 
-QA Manager in Luxoft
+QA Manager at Luxoft
 
 <img src="./slack.svg" width="18"> [Anna Lazareva on WWCode Kyiv Slack](https://wwcodekyiv.slack.com/team/U41AP8LP5)
 
@@ -39,14 +39,14 @@ Security Software Engineer @Cossack Labs. Product security, cryptography.
 
 <img src="./julepka.png" width="250">
 
-Security Software Engineer @CossackLabs
+Security Software Engineer @CossackLabs Specialising in Mobile Security. iOS, Android, React Native
 
 <img src="./slack.svg" width="18">  [Julia Potapenko on WWCode Kyiv Slack](https://wwcodekyiv.slack.com/team/U8GS7F4BT)
 
 <img src="./linkedin.svg" width="18"> [Julia Potapenko on LinkedIn](https://www.linkedin.com/in/jpotapenko/)
 
 
-## Cocoa (iOS/macOS)
+## Mobile
 
 
 ### Maria Holubieva
@@ -58,6 +58,16 @@ iOS/macOS Senior Engineer, Cocoa Area Lead @MacPaw
 <img src="./slack.svg" width="18"> [Maria Holubieva on WWCode Kyiv Slack](https://wwcodekyiv.slack.com/team/U4EJ5GE0Z)
 
 <img src="./linkedin.svg" width="18"> [Maria Holubieva on LinkedIn](https://www.linkedin.com/in/mk-holubieva/)
+
+### Julia Potapenko
+
+<img src="./julepka.png" width="250">
+
+Security Software Engineer @CossackLabs Specialising in Mobile Security. iOS, Android, React Native
+
+<img src="./slack.svg" width="18">  [Julia Potapenko on WWCode Kyiv Slack](https://wwcodekyiv.slack.com/team/U8GS7F4BT)
+
+<img src="./linkedin.svg" width="18"> [Julia Potapenko on LinkedIn](https://www.linkedin.com/in/jpotapenko/)
 
 ## Data Science & Data Engineering
 
