@@ -122,6 +122,8 @@ C++ Engineer
 
 ## Менторська програма
 
+<img src="./slack.svg" width="18"> Slack channel: [#mentoring-program](https://wwcodekyiv.slack.com/archives/CUBE6SRUG)
+
 ### Maria Holubieva
 
 <img src="./miseriya.png" width="250">
